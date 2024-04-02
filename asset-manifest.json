@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Personal_portfolio/static/css/main.b0193d02.css",
+    "main.js": "/Personal_portfolio/static/js/main.4add4156.js",
+    "static/js/787.f5325387.chunk.js": "/Personal_portfolio/static/js/787.f5325387.chunk.js",
+    "static/media/DiceGame.png": "/Personal_portfolio/static/media/DiceGame.b12d8de3f376663c5fa4.png",
+    "static/media/dp.jpg": "/Personal_portfolio/static/media/dp.63808bea3b8e08688b66.jpg",
+    "static/media/react.png": "/Personal_portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/cpp.png": "/Personal_portfolio/static/media/cpp.87185543613db53c3c0f.png",
+    "static/media/html.png": "/Personal_portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/Personal_portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/Personal_portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/Personal_portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/Personal_portfolio/index.html",
+    "main.b0193d02.css.map": "/Personal_portfolio/static/css/main.b0193d02.css.map",
+    "main.4add4156.js.map": "/Personal_portfolio/static/js/main.4add4156.js.map",
+    "787.f5325387.chunk.js.map": "/Personal_portfolio/static/js/787.f5325387.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0193d02.css",
+    "static/js/main.4add4156.js"
+  ]
+}
