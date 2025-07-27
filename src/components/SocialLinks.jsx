@@ -13,7 +13,7 @@ const SocialLinks = () => {
                     GitHub <FaGithub size={25} />
                 </>
             ),
-            href: "https://github.com/Shwetameena35",
+            href: "https://github.com/Mani9516",
             style: "rounded-tr-md"
         },
         {
@@ -23,7 +23,7 @@ const SocialLinks = () => {
                     LinkedIn <FaLinkedin size={25} />
                 </>
             ),
-            href: "https://www.linkedin.com/in/shweta-meena-4b0ba4226/",
+            href: "https://www.linkedin.com/in/mani-chourasiya-119433238/",
         },
         {
             id: 3,
@@ -41,7 +41,7 @@ const SocialLinks = () => {
                     Resume <BsFillPersonLinesFill size={25} />
                 </>
             ),
-            href: "../assets/Shweta.pdf",
+            href: "src/assets/Mani_Chourasiya_Resume.pdf",
             style: "rounded-br-md",
             download: true
         },
