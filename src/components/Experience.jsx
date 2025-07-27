@@ -1,13 +1,9 @@
-import React, { useEffect } from 'react'
 import html from '../assets/experience/html.png'
 import css from '../assets/experience/css.png'
 import javascript from '../assets/experience/javascript.png'
-import bootstrap from '../assets/experience/bootstrap.png'
-import react from '../assets/experience/react.png'
-import tailwind from '../assets/experience/tailwind.png'
+import SQL from '../assets/experience/react.png'
+import Python from '../assets/experience/tailwind.png'
 import cpp from '../assets/experience/cpp.png'
-import AOS from 'aos'
-import 'aos/dist/aos.css'
 
 const Experience = () => {
     useEffect(() => {
@@ -41,23 +37,16 @@ const Experience = () => {
         },
         {
             id: 5,
-            scr: react,
-            title: 'REACT',
+            scr: python,
+            title: 'Python',
             style: 'shadow-blue-600'
         },
         {
             id: 6,
-            scr: bootstrap,
-            title: 'Bootstrap',
+            scr: sql,
+            title: 'SQL',
             style: 'shadow-violet-800'
         },
-        {
-            id: 7,
-            scr: tailwind,
-            title: 'Tailwind',
-            style: 'shadow-sky-500'
-        },
-       
         
     ]
 
