@@ -19,17 +19,17 @@ const About = () => {
                 </div>
 
                 <p data-aos="slide-up" data-aos-duration="500" className='text-xl mt-5 ease-in fade-in'>
-                    I embarked my journey as a B.Tech Computer Science & Engineering student at Prestige Institute of Engineering Management and Research in 2021. I delved into the world of cutting-edge technologies, such as C++, React. I also took my passion for technology and part of Google Developer Student Clubs and the Placement Cell in my college, alongside my equally enthusiastic classmates.
+                    I embarked my journey as a B.Tech Artificial Intelligence and Data Science student at Prestige Institute of Engineering Management and Research in 2021. I delved into the world of cutting-edge technologies, such as Artificial Intelligence, Machine Learning, and Generative AI. I also took my passion for technology and part of Google Developers Group and Contributed as the Head Placement Student Cordinator in Placement Cell in my college, alongside my equally enthusiastic classmates.
                 </p>
                 <br />
                 <p data-aos="fade-in" data-aos-duration="500" className='text-xl mt-5 ease-in  fade-in'>
-                    I've worked for many projects  as my personal projects. I also contributed for the GDSC PIEMR web page. My eagerness to learn and embrace a growth mindset enables me to collaborate effectively with others and contribute to societal initiatives.
+                    I've worked for many projects  as my personal projects. I also won Hacktoberfest Hackathon Organized by Hotwax E-Commerce. My eagerness to learn and embrace a growth mindset enables me to collaborate effectively with others and contribute to societal initiatives.
                 </p> 
                 <div data-aos="zoom-in" data-aos-duration="500" className='mb-20 fade-in flex mx-auto items-center justify-center hover:scale-105 duration-300 rounded bg-gradient-to-b from-cyan-500 to-blue-500 lg:w-1/5 md:w-1/5 w-2/4 h-10 text-center cursor-pointer mt-10 gap-2'>
 
 
                     <AiOutlineCloudDownload />
-                    <a href="..assets/Shweta.pdf" download>Download CV</a>
+                    <a href="src/assets/Mani_Chourasiya_Resume.pdf" download>Download CV</a>
                 </div>
             </div>
         </div>
