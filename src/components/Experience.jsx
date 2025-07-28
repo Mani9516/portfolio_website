@@ -1,8 +1,8 @@
 import html from '../assets/experience/html.png'
 import css from '../assets/experience/css.png'
 import javascript from '../assets/experience/javascript.png'
-import SQL from '../assets/experience/react.png'
-import Python from '../assets/experience/tailwind.png'
+import SQL from '../assets/experience/SQL.png'
+import Python from '../assets/experience/python.png'
 import cpp from '../assets/experience/cpp.png'
 
 const Experience = () => {
