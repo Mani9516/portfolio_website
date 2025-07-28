@@ -33,7 +33,7 @@ const Home = () => {
                                 <MdOutlineArrowRightAlt size={25} />
                             </span>
                         </Link>
-                        <a target='_blank' rel="noreferrer"  href="mailto:shwetameena818@gmail.com" smooth duration={500} data-aos="fade-up" data-aos-delay="1000" data-aos-duration="2500" className='group hover:scale-105 rounded w-auto h-8 p-3 flex items-center bg-gradient-to-r from-indigo-600 via-purple-600 to-orange-600 justify-center cursor-pointer mt-5 mb-28' >
+                        <a target='_blank' rel="noreferrer"  href="mailto:manichourasiya9516@gmail.com" smooth duration={500} data-aos="fade-up" data-aos-delay="1000" data-aos-duration="2500" className='group hover:scale-105 rounded w-auto h-8 p-3 flex items-center bg-gradient-to-r from-indigo-600 via-purple-600 to-orange-600 justify-center cursor-pointer mt-5 mb-28' >
 
                             <span className='pr-2'>
                                 <HiOutlineMail size={25} />
