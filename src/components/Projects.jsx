@@ -1,7 +1,10 @@
 import React, { useEffect } from "react";
-import DiceGame from "../assets/projects/DiceGame.png";
-import Quiz from "../assets/projects/download.jpeg";
-import News from "../assets/projects/Newsweb.png";
+import Legalease from "../assets/Project/LegalEase.png";
+import Lenscan from "../assets/Project/Lenscan.png";
+import Uber from "../assets/Project/Routes.png";
+import Zomato from "../assets/Project/Zomato.png";
+import Crawler from "../assets/Project/Crawler.png";
+import routes from "../assets/Project/Routes.png";
 import AOS from "aos";
 import "aos/dist/aos.css";
 
@@ -13,21 +16,21 @@ const Projects = () => {
   const Projects = () => [
     {
       id: 1,
-      src: DiceGame,
-      desc: "DiceGame is a Game Website made using ReactJS + CSS , offering endless fun in every roll. Immerse yourself in this thrilling adventure of chance and skill...",
-      code: "https://github.com/Shwetameena35/Dice-Game",
+      src: Legalease,
+      desc: "Legal documentation can be a complicated and time-consuming process, especially for individuals and small businesses who may not have access to legal resources. In addition, the language and jargon used in legal documents can be difficult for non-lawyers to understand, which can lead to errors and misunderstandings....",
+      code: "https://legal-document-generator.onrender.com/",
     },
     {
       id: 2,
-      src: News,
-      desc: "Dive into a dynamic news experience crafted with React + CSS + News API. Explore a seamlessly designed platform offering real-time news at your fingertips...",
+      src: Lenscanai,
+      desc: "This tool analyzes images to determine if they have been manipulated or generated using deepfake techniques. It looks for inconsistencies, artifacts, and other signs of forgery.Image forensicsArtifact detectionForgery analysis...",
       code: "https://github.com/Shwetameena35/News",
     },
     {
       id: 3,
-      src: Quiz,
-      desc: "Interactive quiz website, made using HTML+CSS+JS. Engage, learn, and evaluate my understanding in this platform to tailored for foster learning...",
-      code: "https://github.com/Shwetameena35/Quiz",
+      src: Uber ,
+      desc: "The aim of analysis is to identify the root cause of the problem (i.e. cancellation and non-availability of cars) and recommend ways to improve the situation. As a result of your analysis, you should be able to present to the client the root cause(s) and possible hypotheses of the problem(s) and recommend ways to improve them....",
+      code: "https://uber-case-study.onrender.com/",
     },
   ];
 
