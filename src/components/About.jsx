@@ -23,7 +23,7 @@ const About = () => {
                 </p>
                 <br />
                 <p data-aos="fade-in" data-aos-duration="500" className='text-xl mt-5 ease-in  fade-in'>
-                    I've worked for many projects  as my personal projects. I also won Hacktoberfest Hackathon Organized by Hotwax E-Commerce. My eagerness to learn and embrace a growth mindset enables me to collaborate effectively with others and contribute to societal initiatives.
+                    I've worked for many projects as my personal projects. I also won Hacktoberfest Hackathon Organized by Hotwax E-Commerce. My eagerness to learn and embrace a growth mindset enables me to collaborate effectively with others and contribute to societal initiatives.
                 </p> 
                 <div data-aos="zoom-in" data-aos-duration="500" className='mb-20 fade-in flex mx-auto items-center justify-center hover:scale-105 duration-300 rounded bg-gradient-to-b from-cyan-500 to-blue-500 lg:w-1/5 md:w-1/5 w-2/4 h-10 text-center cursor-pointer mt-10 gap-2'>
 
