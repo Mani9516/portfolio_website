@@ -3,4 +3,4 @@ Hello, I'm a passionate Working Professional At G10x, Completed my B.Tech from P
 
 # Built with React JS & Tailwind CSS
 
-[View My Portfolio](https://codewithbiki.netlify.app)
+[View My Portfolio]
